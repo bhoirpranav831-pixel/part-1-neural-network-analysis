@@ -1,0 +1,4 @@
+Hidden Layers,Activation,Iterations,Test Accuracy
+"(16,)",relu,200,0.98
+"(32, 16)",relu,300,0.98
+"(64, 32)",tanh,400,0.9775

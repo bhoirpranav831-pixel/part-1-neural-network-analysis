@@ -1,0 +1,18 @@
+##=========TASK 6 = FINAL REFLECTION===========
+
+1)What role do weights and biases play in the model?
+    Weights enable the neural network to decide on the relative importance of different input features.
+Bias enables the model to adjust its predictions and enhance learning.
+
+2)Why is an activation function required?
+    The purpose of using activation functions is to enable the model to understand complex relations.
+In the absence of activation functions, the neural network cannot learn complex patterns.
+
+3)What happens when learning rate is too high or too low?
+    A large learning rate can result in the model not reaching the optimal solution.
+A small learning rate will increase the time required for training.
+
+4)Did your model show signs of underfitting or overfitting? Explain.
+    Underfitting occurs where the model poorly performs on both training and testing data sets.
+Overfitting occurs where the training accuracy is far higher than the testing accuracy.
+The model performance can be examined based on training and testing accuracy and losses.
